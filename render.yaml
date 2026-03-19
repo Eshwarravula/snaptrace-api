@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: snaptrace-face-api
+    runtime: docker
+    plan: free
+    envVars:
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
