@@ -1,0 +1,5 @@
+fastmcp>=3.0.0,<4
+httpx>=0.28,<1
+playwright>=1.55,<2
+crawl4ai>=0.7,<1
+yt-dlp>=2026.1.1
